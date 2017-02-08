@@ -1,4 +1,9 @@
-# Steps to reproduce the problem
+# BUG report
+
+https://bugs.launchpad.net/ubuntu/+source/linux/+bug/1662754
+
+
+# Steps to reproduce the bug
 
 1. Build the dockertest snap with snapcraft (On development machine Ubuntu 16.04 LTS)
 
